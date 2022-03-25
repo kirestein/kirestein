@@ -34,6 +34,6 @@
   <a href = "mailto:erik.proenca2011@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/erik-johannes-steindorfer-proen%C3%A7a-395738136/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/kirestein/kirestein/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/kirestein/kirestein/blob/output/github-contribution-grid-snake.svg) 
  
 </div>
