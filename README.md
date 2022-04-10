@@ -33,7 +33,7 @@
   <a href="https://discord.gg/8Uq2cvBF" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:erik.proenca2011@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/erik-johannes-steindorfer-proen%C3%A7a-395738136/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- <p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://github.com/kirestein/kirestein/blob/output/github-contribution-grid-snake.svg"><img src="https://github.com/kirestein/lirestein/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width: 100%;"></a></p>
+ <p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://github.com/kirestein/kirestein/blob/output/github-contribution-grid-snake.svg"><img src="https://github.com/kirestein/kirestein/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width: 100%;"></a></p>
   
  
 </div>
