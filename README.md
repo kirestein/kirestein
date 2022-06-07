@@ -1,5 +1,5 @@
 
-## Olá, eu sou o Erik Proença
+## Hi, I'm Erik Proença
 
 
 - 🔭 I’m currently working on Full-Stack
