@@ -2,8 +2,8 @@
 ## Hi, I'm Erik Proença
 
 
-- 🔭 I’m currently working on Full-Stack
-- 🌱 I’m currently learning Angular
+- 🔭 I’m currently working like a Python Developer
+- 🌱 I’m currently learning Data Science
 - 😄 Pronouns: ele/Dele
 
 <div>
