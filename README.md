@@ -2,7 +2,7 @@
 ## Hi, I'm Erik Proença
 
 
-- 🔭 I’m currently working like a Python Developer
+- 🔭 I’m currently working like a FullStack Developer
 - 🌱 I’m currently learning Data Science
 - 😄 Pronouns: ele/Dele
 
