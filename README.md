@@ -164,7 +164,40 @@ const funFacts = {
 _Configure [WakaTime](https://wakatime.com) to see detailed weekly breakdown here_
 
 <!--START_SECTION:waka-->
-<!-- WakaTime stats will appear here automatically once configured -->
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-46.4%20million%20lines%20of%20code-blue)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                209 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.42 % 
+🌆 Daytime                814 commits         ██████████░░░░░░░░░░░░░░░   40.60 % 
+🌃 Evening                856 commits         ███████████░░░░░░░░░░░░░░   42.69 % 
+🌙 Night                  126 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.28 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   153 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
+Tuesday                  198 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.88 % 
+Wednesday                573 commits         ███████░░░░░░░░░░░░░░░░░░   28.58 % 
+Thursday                 316 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.76 % 
+Friday                   240 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.97 % 
+Saturday                 289 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.41 % 
+Sunday                   236 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.77 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Sao_Paulo
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+```
+
+
+ Last Updated on 21/07/2025 18:44:43 UTC
 <!--END_SECTION:waka-->
 
 </div>
