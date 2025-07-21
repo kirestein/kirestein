@@ -1,39 +1,171 @@
+<div align="center">
 
-## Hi, I'm Erik Proença
+# 🚀 Erik Proença | Full Stack Developer
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey!+I'm+Erik+Proença+👋;Full+Stack+Developer+💻;Angular+%7C+React+%7C+Next.js+Expert+⚡;Node.js+%7C+Python+Enthusiast+🐍;Always+learning+new+technologies+🚀" alt="Typing SVG" />
 
-- 🔭 I’m currently working like a FullStack Developer
-- 🌱 I’m currently learning Data Science
-- 😄 Pronouns: ele/Dele
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20to%20my%20Digital%20Universe&fontSize=42&fontAlignY=32&desc=Where%20code%20meets%20creativity&descAlignY=51&descAlign=50"/>
 
-<div>
-  <a href="https://github.com/kirestein">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kirestein&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirestein&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">  
-  <img align="right" alt="Erik-gamer" width="15%" src="https://cdn.discordapp.com/attachments/839138452758593649/870258231526715432/download20210704075444.png">
+---
+
+## 🎯 About Me
+
+```typescript
+const erik: Developer = {
+  name: "Erik Johannes Steindorfer Proença",
+  role: "Full Stack Developer",
+  location: "Brazil 🇧🇷",
+  currentFocus: "Data Science & AI",
+  passions: ["Clean Code", "Innovation", "Problem Solving"],
   
+  workingOn: {
+    frontend: ["Angular", "React", "Next.js", "TypeScript"],
+    backend: ["Node.js", "Python", "C#", "Java"],
+    databases: ["MongoDB", "PostgreSQL", "MySQL"],
+    cloud: ["AWS", "Azure", "Docker"],
+    currentlyLearning: "Data Science & Machine Learning"
+  },
+  
+  lifePhilosophy: "Code is poetry written in logic 🎨"
+};
+```
+
+---
+
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+### 🎨 Frontend Technologies
+<img src="https://skillicons.dev/icons?i=angular,react,nextjs,typescript,javascript,html,css,sass,tailwind,bootstrap" />
+
+### ⚙️ Backend & Database
+<img src="https://skillicons.dev/icons?i=nodejs,python,java,cs,dotnet,mongodb,postgresql,mysql,redis,firebase" />
+
+### ☁️ DevOps & Tools
+<img src="https://skillicons.dev/icons?i=docker,aws,azure,git,github,vscode,figma,postman,linux,nginx" />
+
 </div>
-    
-  ##
- 
-<div> 
-  <a href="https://www.youtube.com/channel/UCNr0L8zLnRKIx62xsO2wY5A" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/proenca.kire/i" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://discord.gg/8Uq2cvBF" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:erik.proenca2011@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/erik-johannes-steindorfer-proen%C3%A7a-395738136/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  
- 
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=kirestein&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=kirestein&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirestein&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kirestein&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/kirestein/kirestein/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+
+---
+
+## 💼 What I'm Working On
+
+<div align="center">
+
+| 🔥 Current Projects | 🌱 Learning | 🎯 Goals 2024 |
+|:---:|:---:|:---:|
+| Full Stack Applications | Data Science & AI | Master Machine Learning |
+| Angular & React Apps | Cloud Architecture | Contribute to Open Source |
+| Node.js APIs | DevOps Practices | Build SaaS Products |
+
+</div>
+
+---
+
+## 📈 Coding Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kirestein&theme=tokyo-night&hide_border=true&area=true" />
+</div>
+
+---
+
+## 🎨 Featured Projects
+
+<div align="center">
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kirestein&repo=kirestein&theme=tokyonight&hide_border=true)](https://github.com/kirestein/kirestein)
+
+</div>
+
+---
+
+## 🌐 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erik-johannes-steindorfer-proen%C3%A7a-395738136/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:erik.proenca2011@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/proenca.kire/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCNr0L8zLnRKIx62xsO2wY5A)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/8Uq2cvBF)
+
+</div>
+
+---
+
+## 💡 Fun Facts
+
+<div align="center">
+
+```javascript
+const funFacts = {
+  🎮 hobbies: ["Gaming", "Tech Reviews", "Open Source"],
+  ☕ fuelledBy: "Coffee & Curiosity",
+  🎵 codingPlaylist: ["Lo-fi Hip Hop", "Synthwave", "Classical"],
+  🌟 motto: "Every bug is a feature waiting to be discovered!",
+  🚀 dreamProject: "Building the next unicorn startup"
+};
+```
+
+</div>
+
+---
+
+## 📊 Weekly Development Breakdown
+
+<!--START_SECTION:waka-->
+```text
+TypeScript   8 hrs 15 mins   ████████████░░░░░░░░░░░░░   48.2%
+Python       4 hrs 30 mins   ██████░░░░░░░░░░░░░░░░░░░   26.3%
+JavaScript   2 hrs 45 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.1%
+CSS          1 hr 20 mins    ██░░░░░░░░░░░░░░░░░░░░░░░    7.8%
+HTML         15 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░    1.6%
+```
+<!--END_SECTION:waka-->
+
+---
+
+<div align="center">
+
+### 🚀 "Code is like humor. When you have to explain it, it's bad." - Cory House
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+
+**⭐ From [kirestein](https://github.com/kirestein) with ❤️**
+
+[![Profile Views](https://komarev.com/ghpvc/?username=kirestein&color=blueviolet&style=flat-square&label=Profile+Views)](https://github.com/kirestein)
+
 </div>
