@@ -19,16 +19,16 @@ const erik: Developer = {
   location: "Brazil 🇧🇷",
   currentFocus: "Data Science & AI",
   passions: ["Clean Code", "Innovation", "Problem Solving"],
-  
+
   workingOn: {
     frontend: ["Angular", "React", "Next.js", "TypeScript"],
     backend: ["Node.js", "Python", "C#", "Java"],
     databases: ["MongoDB", "PostgreSQL", "MySQL"],
     cloud: ["AWS", "Azure", "Docker"],
-    currentlyLearning: "Data Science & Machine Learning"
+    currentlyLearning: "Data Science & Machine Learning",
   },
-  
-  lifePhilosophy: "Code is poetry written in logic 🎨"
+
+  lifePhilosophy: "Code is poetry written in logic 🎨",
 };
 ```
 
@@ -39,12 +39,15 @@ const erik: Developer = {
 <div align="center">
 
 ### 🎨 Frontend Technologies
+
 <img src="https://skillicons.dev/icons?i=angular,react,nextjs,typescript,javascript,html,css,sass,tailwind,bootstrap" />
 
 ### ⚙️ Backend & Database
+
 <img src="https://skillicons.dev/icons?i=nodejs,python,java,cs,dotnet,mongodb,postgresql,mysql,redis,firebase" />
 
 ### ☁️ DevOps & Tools
+
 <img src="https://skillicons.dev/icons?i=docker,aws,azure,git,github,vscode,figma,postman,linux,nginx" />
 
 </div>
@@ -84,11 +87,11 @@ const erik: Developer = {
 
 <div align="center">
 
-| 🔥 Current Projects | 🌱 Learning | 🎯 Goals 2024 |
-|:---:|:---:|:---:|
-| Full Stack Applications | Data Science & AI | Master Machine Learning |
-| Angular & React Apps | Cloud Architecture | Contribute to Open Source |
-| Node.js APIs | DevOps Practices | Build SaaS Products |
+|   🔥 Current Projects   |    🌱 Learning     |       🎯 Goals 2024       |
+| :---------------------: | :----------------: | :-----------------------: |
+| Full Stack Applications | Data Science & AI  |  Master Machine Learning  |
+|  Angular & React Apps   | Cloud Architecture | Contribute to Open Source |
+|      Node.js APIs       |  DevOps Practices  |    Build SaaS Products    |
 
 </div>
 
@@ -116,9 +119,9 @@ const erik: Developer = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erik-johannes-steindorfer-proen%C3%A7a-395738136/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erikproenca/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:erik.proenca2011@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/proenca.kire/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/project_erik/)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCNr0L8zLnRKIx62xsO2wY5A)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/8Uq2cvBF)
 
@@ -150,14 +153,15 @@ const funFacts = {
 
 ### 🔥 Current Development Focus
 
-| 💻 Frontend | ⚙️ Backend | 🛠️ Tools & Others |
-|:---:|:---:|:---:|
-| Angular, React | Node.js, Python | Docker, Git |
-| TypeScript, Next.js | C#, Java | AWS, Azure |
-| HTML5, CSS3 | APIs, Databases | VS Code, Figma |
+|     💻 Frontend     |   ⚙️ Backend    | 🛠️ Tools & Others |
+| :-----------------: | :-------------: | :---------------: |
+|   Angular, React    | Node.js, Python |    Docker, Git    |
+| TypeScript, Next.js |    C#, Java     |    AWS, Azure     |
+|     HTML5, CSS3     | APIs, Databases |  VS Code, Figma   |
 
 ### 📈 Real-time Coding Stats
-*Configure [WakaTime](https://wakatime.com) to see detailed weekly breakdown here*
+
+_Configure [WakaTime](https://wakatime.com) to see detailed weekly breakdown here_
 
 <!--START_SECTION:waka-->
 <!-- WakaTime stats will appear here automatically once configured -->
