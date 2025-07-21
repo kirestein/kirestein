@@ -144,17 +144,26 @@ const funFacts = {
 
 ---
 
-## 📊 Weekly Development Breakdown
+## 📊 Development Activity
+
+<div align="center">
+
+### 🔥 Current Development Focus
+
+| 💻 Frontend | ⚙️ Backend | 🛠️ Tools & Others |
+|:---:|:---:|:---:|
+| Angular, React | Node.js, Python | Docker, Git |
+| TypeScript, Next.js | C#, Java | AWS, Azure |
+| HTML5, CSS3 | APIs, Databases | VS Code, Figma |
+
+### 📈 Real-time Coding Stats
+*Configure [WakaTime](https://wakatime.com) to see detailed weekly breakdown here*
 
 <!--START_SECTION:waka-->
-```text
-TypeScript   8 hrs 15 mins   ████████████░░░░░░░░░░░░░   48.2%
-Python       4 hrs 30 mins   ██████░░░░░░░░░░░░░░░░░░░   26.3%
-JavaScript   2 hrs 45 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.1%
-CSS          1 hr 20 mins    ██░░░░░░░░░░░░░░░░░░░░░░░    7.8%
-HTML         15 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░    1.6%
-```
+<!-- WakaTime stats will appear here automatically once configured -->
 <!--END_SECTION:waka-->
+
+</div>
 
 ---
 
