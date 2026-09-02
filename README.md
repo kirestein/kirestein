@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 Erik Proença | Full Stack Developer
+# 🚀 Erik Proença | Back End Developer
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey!+I'm+Erik+Proença+👋;Full+Stack+Developer+💻;Angular+%7C+React+%7C+Next.js+Expert+⚡;Node.js+%7C+Python+Enthusiast+🐍;Always+learning+new+technologies+🚀" alt="Typing SVG" />
 
@@ -15,14 +15,14 @@
 ```typescript
 const erik: Developer = {
   name: "Erik Johannes Steindorfer Proença",
-  role: "Full Stack Developer",
+  role: "Back End Developer",
   location: "Brazil 🇧🇷",
-  currentFocus: "Data Science & AI",
+  currentFocus: "Back End & Data Science",
   passions: ["Clean Code", "Innovation", "Problem Solving"],
 
   workingOn: {
     frontend: ["Angular", "React", "Next.js", "TypeScript"],
-    backend: ["Node.js", "Python", "C#", "Java"],
+    backend: ["Node.js", "Python", "Mulesoft"],
     databases: ["MongoDB", "PostgreSQL", "MySQL"],
     cloud: ["AWS", "Azure", "Docker"],
     currentlyLearning: "Data Science & Machine Learning",
