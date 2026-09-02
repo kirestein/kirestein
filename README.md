@@ -48,7 +48,7 @@ const erik: Developer = {
 
 ### ☁️ DevOps & Tools
 
-<img src="https://skillicons.dev/icons?i=docker,azure,git,github,vscode,figma,insomnia,linux" />
+<img src="https://skillicons.dev/icons?i=docker,azure,git,github,vscode,postman,linux" />
 
 </div>
 
