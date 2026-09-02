@@ -44,11 +44,11 @@ const erik: Developer = {
 
 ### ⚙️ Backend & Database
 
-<img src="https://skillicons.dev/icons?i=nodejs,python,java,cs,dotnet,mongodb,postgresql,mysql,redis,firebase" />
+<img src="https://skillicons.dev/icons?i=nodejs,python,mongodb,postgresql,mysql,firebase" />
 
 ### ☁️ DevOps & Tools
 
-<img src="https://skillicons.dev/icons?i=docker,aws,azure,git,github,vscode,figma,postman,linux,nginx" />
+<img src="https://skillicons.dev/icons?i=docker,azure,git,github,vscode,figma,insomnia,linux" />
 
 </div>
 
@@ -89,9 +89,9 @@ const erik: Developer = {
 
 |   🔥 Current Projects   |    🌱 Learning     |       🎯 Goals 2024       |
 | :---------------------: | :----------------: | :-----------------------: |
-| Full Stack Applications | Data Science & AI  |  Master Machine Learning  |
-|  Angular & React Apps   | Cloud Architecture | Contribute to Open Source |
-|      Node.js APIs       |  DevOps Practices  |    Build SaaS Products    |
+| Back End Applications | Data Science & AI  |  Master Machine Learning  |
+|  Mulesoft APIs   | Cloud Architecture | Contribute to Open Source |
+|      Fastapi APIs       |  DevOps Practices  |    Build SaaS Products    |
 
 </div>
 
@@ -122,8 +122,6 @@ const erik: Developer = {
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erikproenca/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:erik.proenca2011@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/project_erik/)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCNr0L8zLnRKIx62xsO2wY5A)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/8Uq2cvBF)
 
 </div>
 
@@ -156,7 +154,7 @@ const funFacts = {
 |     💻 Frontend     |   ⚙️ Backend    | 🛠️ Tools & Others |
 | :-----------------: | :-------------: | :---------------: |
 |   Angular, React    | Node.js, Python |    Docker, Git    |
-| TypeScript, Next.js |    C#, Java     |    AWS, Azure     |
+| TypeScript, Next.js |    Mulesoft     |     Azure         |
 |     HTML5, CSS3     | APIs, Databases |  VS Code, Figma   |
 
 ### 📈 Real-time Coding Stats
